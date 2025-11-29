@@ -1,0 +1,12 @@
+To install dopplR from GitHub:
+   ## Install the remotes package if needed
+   install.packages("remotes")
+
+   ## Install dopplR from GitHub
+   remotes::install_github("smpedron/dopplR")
+
+  Load the package after installation:
+   library(dopplR)
+
+  Citation:
+   citation("dopplR")
